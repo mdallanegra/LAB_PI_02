@@ -37,11 +37,11 @@ Se tiene una base de datos compuesta de dos archivos de Excel que contienen info
 
 ## Desarrollo
 
-El proceso de trabajo consistirá en 3 partes:
+El proceso de trabajo consistió en 3 partes:
 
-- Se deberan extraer y transformar los datos que llegan sin procesar y con errores, los cuales se encuentran en la carpeta [_src](https://github.com/mdallanegra/LAB_PI_02/tree/main/_src).
-- Se hará un análisis exploratorio para entender la informacion que contiene la base de datos.
-- Finalmente se deberá crear un dashboard en Power Bi para explorar y comprender los datos obtenidos de los dos pasos anteriores y se generaran al menos 2 KPI's con la propuesta de reduccion de los accidentes viales.
+- Se debió extraer y transformar los datos que llegan sin procesar y con errores, los cuales se encuentran en la carpeta [_src](https://github.com/mdallanegra/LAB_PI_02/tree/main/_src).
+- Se hizo un análisis exploratorio para entender la informacion que contiene la base de datos.
+- Finalmente se creó un dashboard en Power Bi para explorar y comprender los datos obtenidos de los dos pasos anteriores y se generaran al menos 2 KPI's con la propuesta de reduccion de los accidentes viales.
 
 ## ETL
 
