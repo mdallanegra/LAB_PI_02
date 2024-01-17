@@ -6,7 +6,7 @@
 <body>
 
 <p align='center'>
-<img src="_pics/LogoBannerHenryBlack.png" alt="Logo Henry" height="100">
+<img src="_pics/LogoBannerHenryBlack.png" alt="Logo Henry" height="150">
 <p>
 
 # <h1 align=center> **`PROYECTO INDIVIDUAL Nº2`**</h1> <!-- omit in toc --> 
