@@ -72,7 +72,19 @@ __Para Tasa de Homicidios__
 
 ## Conclusiones
 
+En terminos generales se han obtenido datos muy interesantes del análisis y se han generado algunas recomendaciones para casos particulares. 
 
+Desde el punto de vista de la extraccion de datos, se pudo ver que recien a partir de 2020 el dataset comenzó a tener datos mas consistentes, y esto se denota porque deja de existir la nomenclatura SD (sin dato) y comienza a tener la información correspondiente. 
+
+A partir del EDA y la confeccion del Dashboard, se ha podido ver que por un lado, el recuento de victimas mutiples pueden proporcionar errores ya que el dato se encuentra ingresado una vez por cada victima y además en la suma de victimas se inscribe el total por lo que se multiplica la cantidad de victimas siendo que se ha producido un solo hecho.
+
+Además en el este análisis podemos ver que la relacion entre mayor flujo y aglomeracion de tránsito implican directamente mayor cantidad de accidentes, ya sea por barrio, comuna o calle. Solo cabe aclarar que se identificó al barrio de 'Flores' como un lugar con muchos siniestros, a pesar de que no posee una causa clara de lo que ocurre.
+
+Tambien se vió que la mayor siniestralidad se ha dado en gente joven, masculinos y en su mayoría en horarios de madrugada, por lo que podría atribuirse a mayor cantidad de gente saliendo a trabajar o retornando a sus viviendas en horarios de poca visibilidad. Tambien probablemente en casos de salidas de ocio en horario nocturnos, los conductores podrían estar alcoholizados. 
+
+Otra relacion encontrada entre los participantes de los homicidios viales resulta en que en la mayoría de los casos los vehiculos de menor porte (incluidos peatones) son las victimas, mientras que los de mayor porte tales como autos, camiones y omnibus son los acusados.
+
+Por ultimo se ve claramente una reduccion de homicidios viales en el año 2020 debido al confinamiento producto del COVID y luego del fin del mismo comienzan a aumentar levemente.
 
 ## Contacto
 
