@@ -74,15 +74,13 @@ __Para Tasa de Homicidios__
 
 
 
-***
-
 ## Contacto
 
 <p align="left">
-<img src="_src/mail.icns"  height=30><a href="mailto:mdallanegra@icloud.com" class="text-link-next-to-icon"> Correo Electrónico</a>
+<img src="_pics/mail.icns"  height=30><a href="mailto:mdallanegra@icloud.com" class="text-link-next-to-icon"> Correo Electrónico</a>
 </p>
 <p align="left">
-<img src="_src/linkedin.icns"  height=30><a href="https://www.linkedin.com/in/miguel-angel-dallanegra-vilches-b419b19b/" class="text-link-next-to-icon"> Perfil de LinkedIn</a>
+<img src="_pics/linkedin.icns"  height=30><a href="https://www.linkedin.com/in/miguel-angel-dallanegra-vilches-b419b19b/" class="text-link-next-to-icon"> Perfil de LinkedIn</a>
 </p>
 
 </body>
