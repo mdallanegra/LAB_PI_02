@@ -5,9 +5,10 @@
 </head>
 <body>
 
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
+<div style="background-color: #333; text-align: center; padding: 10px;">
+  <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" alt="Logo Henry" />
+</div>
+
 
 # <h1 align=center> **`PROYECTO INDIVIDUAL Nº2`**</h1> <!-- omit in toc --> 
 
