@@ -5,9 +5,9 @@
 </head>
 <body>
 
-<div style="text-align:center;">
-  <img src="_pics/LogoBannerHenryBlack.png" alt="Logo Henry" height="100">
-</div>
+<p align='center'>
+<img src="_pics/LogoBannerHenryBlack.png" alt="Logo Henry" height="100">
+<p>
 
 # <h1 align=center> **`PROYECTO INDIVIDUAL Nº2`**</h1> <!-- omit in toc --> 
 
@@ -16,7 +16,6 @@
 # <h3 align=center>**` Enero de 2024 `**</h2> <!-- omit in toc --> 
 
 # <h2 align=center>**` Miguel Angel Dallanegra Vilches - DATA Part Time 05 `** </h2> <!-- omit in toc --> 
-
 
 <p align='center'>
 <img src = 'https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg' height = 500>
