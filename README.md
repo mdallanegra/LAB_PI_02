@@ -54,7 +54,7 @@ Este análisis, con todos sus graficos y valores se encuentra en el archivo [Lab
 
 ## Dashboard
 
-En esta parte del trabajo se elabora un dashboard de Power Bi con una serie de analisis gráficos y estadísticos que complementan los KPI's solicitados para poder evaluar la reduccion de los homicidios viales. En uno de los KPI se calcula la reduccion del 10% de la tasa total de siniestros, en el segundo se calcula la reduccion del 7% de la tasa de siniestros en motocicleta y el el tercero se calcula la reduccion de un 15% la tasa de siniestros contra peatones.
+En esta parte del trabajo se elabora un dashboard de Power Bi con una serie de analisis gráficos y estadísticos que complementan los KPI's solicitados para poder evaluar la reduccion de los homicidios viales. En uno de los KPI se calcula la reduccion del 10% de la tasa total de siniestros, en el segundo se calcula la reduccion del 7% de la tasa de siniestros en motocicleta y el el tercero se calcula la reduccion de un 15% la tasa de siniestros contra peatones. El dashboard se encuentra en el archivo [Lab_PI_02.Siniestros.pbix](https://github.com/mdallanegra/LAB_PI_02/blob/main/Lab_PI_02.Siniestros.pbix).
 
 ## Datos Adicionales
 
