@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<div style="background-color: #333; text-align: center; padding: 10px;">
-  <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" alt="Logo Henry" />
+<div style="text-align:center;">
+  <img src="_pics/LogoBannerHenryBlack.png" alt="Logo Henry" height="100">
 </div>
 
 # <h1 align=center> **`PROYECTO INDIVIDUAL Nº2`**</h1> <!-- omit in toc --> 
